@@ -1,2 +1,3 @@
-# spring-boot-archetype
-Spring Boot Application Archetype
+# Spring Boot Archetype
+
+Spring boot archetype project.
