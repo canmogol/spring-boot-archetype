@@ -9,7 +9,7 @@ Spring boot archetype project.
 - [Findbugs](http://findbugs.sourceforge.net/) 
 - [Lombok](https://projectlombok.org/) 
 - [Maven](https://maven.apache.org/) 
-- [Travis](https://travis-ci.org/) 
+- [Travis](https://travis-ci.org/)  [![Build Status](https://travis-ci.org/canmogol/spring-boot-archetype.svg?branch=master)](https://travis-ci.org/canmogol/spring-boot-archetype)
 - [Java8](https://openjdk.java.net/install/) 
 
 ### Getting Started
