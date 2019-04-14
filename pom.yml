@@ -42,11 +42,11 @@ dependencyManagement:
     - {
       # spring cloud is needed for tracing and monitoring
       groupId: org.springframework.cloud,
-      artifactId: spring-cloud-dependencies, 
+      artifactId: spring-cloud-dependencies,
       version: '${version.spring-cloud}',
-      type: pom, 
+      type: pom,
       scope: import
-      }
+    }
 dependencies:
   # COMPILE dependencies
   # Spring
